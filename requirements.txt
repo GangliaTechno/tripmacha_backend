@@ -1,0 +1,12 @@
+pip==21.1.2
+urllib3<2.0
+bson
+firebase_admin
+fastapi
+uvicorn
+pymongo
+typing 
+pydantic==1.10.9
+openai
+googlemaps
+requests
