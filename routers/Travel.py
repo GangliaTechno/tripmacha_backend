@@ -10,7 +10,7 @@ import requests
 
 travel_api_router=APIRouter()
 
-openai.api_key = "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"
+openai.api_key = "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"
 api_key_maps = "AIzaSyDMWSgHTmFD9UdPTYIvLkXww_eyRdI5ggA"
 api_key = "AIzaSyDMWSgHTmFD9UdPTYIvLkXww_eyRdI5ggA"
 gmaps = googlemaps.Client(key=api_key_maps)
